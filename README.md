@@ -1,4 +1,4 @@
-# incomingcallfcm
+# Incoming call FCM₹ Notification (React Native)
 
 This is a small React Native app that implements the Android incoming-call notification
 
