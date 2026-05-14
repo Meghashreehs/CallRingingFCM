@@ -1,4 +1,4 @@
-# IncomingCallSample
+# incomingcallfcm
 
 This is a small React Native app that implements the Android incoming-call notification
 
@@ -14,13 +14,13 @@ This is a small React Native app that implements the Android incoming-call notif
 
 ## Project structure
 
-- `android/app/src/main/java/com/incomingcallsample/incomingcallmodule`
+- `android/app/src/main/java/com/incomingcallfcm/incomingcallmodule`
   - `CallFcmService.java`
   - `NotificationHelper.java`
   - `CallActionReceiver.java`
   - `CallModule.java`
   - `CallPackage.java`
-- `android/app/src/main/java/com/incomingcallsample`
+- `android/app/src/main/java/com/incomingcallfcm`
   - `MainApplication.kt`
   - `MainActivity.kt`
 - `App.tsx`
